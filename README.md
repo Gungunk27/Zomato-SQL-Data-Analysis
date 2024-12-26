@@ -1,7 +1,7 @@
-## Zomato SQL Project
+# Zomato SQL Project
 This repository contains a SQL-based data analysis project focused on analyzing Zomato’s dataset. The project leverages PostgreSQL to create structured tables and perform insightful analysis on key data points such as customer behavior, order patterns, delivery logistics, and restaurant performance.
 
-# Tables Created
+## Tables Created
 ### customers
 Stores information about customers who have placed orders. Includes details such as customer ID, name, contact details, and order history.
 
