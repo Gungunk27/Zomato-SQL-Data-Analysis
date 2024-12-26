@@ -10,3 +10,5 @@ This repository contains a SQL-based data analysis project focused on Zomato’s
 ### restaurants: Information on restaurants including their city, name, and opening hours.
 
 Using the created tables, we performed various data analysis tasks.
+
+![Untitled](https://github.com/user-attachments/assets/2217c2eb-22f5-49be-a1c5-5a20b56b4a70)
